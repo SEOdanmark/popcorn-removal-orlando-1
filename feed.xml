@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Privacy Policy</title>
-<meta name="title" content="Privacy Policy">
-<meta name="DC.title" lang="en" content="Privacy Policy">
+<meta name="title" content="Privacy Policy ">
+<meta name="DC.title" lang="en" content="Privacy Policy ">
 <meta name="description" content="">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -17,57 +17,101 @@
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style type="text/css">
-.btn-md{
-padding: 15px 30.4px;
-border-radius: 0;
+<style type="text/css"> 
+.navbar a{
+font-size: 18.4px;
 }
-.cf9b8da3ca2c6ba155769128a59317002{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
+.underline .line{
+width: 5rem;
+height: 3px;
+background: linear-gradient(90deg, #b29cff,#ff5c65);
+display: inline-block;
 }
-footer *{
-font-size:16px !important;
+.fed4c72a7f950edd5e5cb93b5eb7dbdca{
+font-size:20.2px;
+padding:10.2px;
+color: black;
 }
-.ue04721b9ab2cc0f2819c0e6755c265fd p,.ue04721b9ab2cc0f2819c0e6755c265fd span,.ue04721b9ab2cc0f2819c0e6755c265fd label{
-font-size:16px!important;
+.a24ae0488bba7a22acb098cb15c44a92b{
+background: rgba(0,0,0,0.6);
+text-align: center;
 }
-.nav-link{
-color: #000000;
-
+.fed4c72a7f950edd5e5cb93b5eb7dbdca i{
+border-radius: 50%;
+width: 10mm;
+text-align: center;
+line-height: 37px;
+height: 10mm;
 }
-footer a{
-color:#ffffff;
-text-decoration: underline;
+.a24ae0488bba7a22acb098cb15c44a92b *{
+color:white!important;
 }
-footer{
-background:#080808;
-color:#ffffff;
+.display-2{
+font-size: 45.5px;
 }
-.f20293de9708f5730cc76a42f634fa871 a,.ue04721b9ab2cc0f2819c0e6755c265fd a{
-color:#040404!important;
-text-decoration: underline !important;
+.nav-item{
+margin-top: 10.4px;
+margin-bottom: 10.1px;
+padding-left: 6.9px;
+padding-right: 7px;
 }
-.f20293de9708f5730cc76a42f634fa871 p,.f20293de9708f5730cc76a42f634fa871 a,.f20293de9708f5730cc76a42f634fa871 span,.f20293de9708f5730cc76a42f634fa871 label{
-font-size:16px!important;
+footer ul{
+padding-left: 0px!important;
+list-style: none;
 }
-html{
-scroll-behavior: smooth;
+.b33f3f49321f6daf01c38b85e0e10ee49:hover{
+background-size: 100% 100%!important;
+color:#ffffff!important;
+background:#ffc658!important;
+background-repeat: no-repeat!important;
+background-position: 0 90%!important; 
+transition: background-size 0.2s ease-in!important;
 }
 ul{
 list-style: circle;
 }
-.navbar a{
-font-size: 18.5px!important;
-font-weight: bold;
+.fed4c72a7f950edd5e5cb93b5eb7dbdca i:hover{
+background: black;
+color:#ffdce0;
+border-radius: 50%;
+width:10mm;
+text-align:center;
+height:10mm;
 }
-.u3b3aedfa0d8b0e036824f46c74fe6d4d:hover{
-box-shadow: 0 50.2px 50.1px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
+.btn-md{
+padding:15.1px 30.4px;
+border-radius: 0;
 }
-.ue04721b9ab2cc0f2819c0e6755c265fd a{
-font-size:16px;
+.align-self-stretch{
+ms-flex-item-align: stretch!important;
+align-self: stretch!important;
+}
+.nav-link{
+color: #131313 !important;
+}
+.yf3432522dd254928304d1b96abcfa7d2{
+text-decoration: underline!important;
+}
+.yd15a73e9f3b8546ed6cf09b459a6cb9f{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+footer a{
+color:  #ffffff!important;
+text-decoration: underline!important;
+}
+li a{
+color: #ff5861;
+}
+footer *{
+font-size:16px!important;
+color:#ffffff!important;
+line-height: 1.5;
+}
+footer{
+padding-top:59.6px;
+padding-bottom:60.3px;
 }
 *{
 font-family: 'Kumbh Sans', sans-serif;
@@ -75,16 +119,7 @@ font-family: 'Kumbh Sans', sans-serif;
 a{
 text-decoration: none!important;
 }
-.nav-item{
-padding-left:8.1px;
-padding-right:7.8px;
-padding-top:5.1px;
-padding-bottom:4.6px;
-}
-a:hover{
-color:#ffffff;background:#ffc658!important;
-}
-    .dropdown-submenu {
+.dropdown-submenu {
     position: relative;
 }
 
@@ -198,38 +233,38 @@ color:#ffffff;background:#ffc658!important;
     max-height: 60vh;          /* scroll if long */
     overflow-y: auto;
   }
-}
+} 
 </style>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg">
-<a class="navbar-brand" href="index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg" ></a>
+<a class="navbar-brand" href="index.html"  >
+
+<img alt="" src="img/logo.jpg"  ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="d-flex align-items-center ml-auto navbar-nav"><li class="nav-item">
-<a class="nav-link c17b916f2b44488d77ad9ec9d8f6d58e0" href="index.html" >popcorn removal orlando</a>
-</li>
-<li class="nav-item">
-<a class="nav-link c17b916f2b44488d77ad9ec9d8f6d58e0" href="orlando-popcorn-removal.html" >orlando popcorn removal</a>
-</li>
-<li class="nav-item">
-<a class="c17b916f2b44488d77ad9ec9d8f6d58e0 nav-link" href="popcorn-ceiling-removal-orlando.html" >popcorn ceiling removal Orlando</a>
-</li>
-<li class="nav-item">
-<a class="nav-link c17b916f2b44488d77ad9ec9d8f6d58e0" href="orlando-popcorn-ceiling-removal.html" >orlando popcorn ceiling removal</a>
-</li>
-<li class="dropdown nav-item">
-<a class="nav-link dropdown-toggle c17b916f2b44488d77ad9ec9d8f6d58e0" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="orlando-popcorn-removal-1.html"  >orlando popcorn removal</a><a class="dropdown-item" href="popcorn-ceiling-removal-company-orlando.html"  >popcorn ceiling removal company orlando</a><a class="dropdown-item" href="popcorn-removal-company-orlando.html"  >popcorn removal company orlando</a><a class="dropdown-item" href="popcorn-ceiling-removal-contractors-orlando.html"  >popcorn ceiling removal contractors orlando</a><a class="dropdown-item" href="popcorn-removal-contractors-orlando.html"  >popcorn removal contractors orlando</a><a class="dropdown-item" href="popcorn-ceiling-contractor-orlando.html"  >popcorn ceiling contractor orlando</a></div>
-</li>
+<span class="navbar-toggler-icon fa fa-bars"></span>
+</button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="align-items-center navbar-nav ml-auto">
+<li class="nav-item"><a class="b33f3f49321f6daf01c38b85e0e10ee49 nav-link" href="index.html" >modern ceiling finishes orlando</a></li>
+<li class="nav-item"><a class="nav-link b33f3f49321f6daf01c38b85e0e10ee49" href="smooth-ceiling-orlando.html"  >smooth ceiling orlando</a></li>
+<li class="nav-item"><a class="b33f3f49321f6daf01c38b85e0e10ee49 nav-link"  href="ceiling-makeover-orlando.html"  >ceiling makeover orlando</a></li>
+<li class="nav-item"><a class="nav-link b33f3f49321f6daf01c38b85e0e10ee49" href="smooth-ceiling-finish-orlando.html"  >smooth ceiling finish orlando</a></li>
+<li class="nav-item dropdown"><a class="nav-link b33f3f49321f6daf01c38b85e0e10ee49  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="ceiling-refinishing-orlando.html"  >ceiling refinishing orlando</a>
+<a class="dropdown-item" href="popcorn-ceiling-renovation-orlando.html"  >popcorn ceiling renovation orlando</a>
+<a class="dropdown-item" href="ceiling-renovation-orlando.html"  >ceiling renovation orlando</a>
+<a class="dropdown-item" href="popcorn-ceiling-replacement-orlando.html"  >popcorn ceiling replacement orlando</a>
+<a class="dropdown-item" href="smooth-ceiling-contractor-orlando.html"  >smooth ceiling contractor orlando</a>
+<a class="dropdown-item" href="popcorn-ceiling-update-orlando.html"  >popcorn ceiling update orlando</a>
+</div></li>
 </ul>
 </div>
 </nav>
-<section class="container" style="min-height: 80vh;">
+<div>
+<section class="container">
 <h1>Privacy Policy for </h1>
 <p>At  one of our main priorities is the privacy of our visitors.
- This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
+This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 <p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in . This policy is not applicable to any information collected offline or via channels other than this website. </p>
 <h2>Consent</h2>
@@ -288,22 +323,30 @@ This website is owned and published by:
 </br>
 </p>
 </section>
+</div> 
 <footer>
-<div class="pt-5 py-4 container" >
-<div class="row"><div class="col-lg-3">
-<p>USEFUL LINKS</p>
-<p><a class="c17b916f2b44488d77ad9ec9d8f6d58e0" href="https://share.google/lYnmFeNW5topBXPWR" rel="nofollow" target="_blank">orlando popcorn removal</a></p><p><a class="c17b916f2b44488d77ad9ec9d8f6d58e0" href="https://t.me/+gLj7Ha2MHU40YTQ5" rel="nofollow" target="_blank">popcorn ceiling removal Orlando</a></p></div><div class="col-lg-3"><p><a class="c17b916f2b44488d77ad9ec9d8f6d58e0" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="c17b916f2b44488d77ad9ec9d8f6d58e0" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-</p>
-</div><div class="col-lg-3">
+<div class="container">
+<div class="row justify-content-center align-center"><div class="col-md-3">
+<h3 class="tbb54ae7d50c59cde8f4cae4ca34fa283 font-weight-bold">USEFUL LINKS</h3>
+<hr>
 <div>
-<p>Follow us</p>
-<a href="https://www.instagram.com/shreewinofficial07?stkn=dHhhb2Z3YjhvNjli" class="google x09f000ab5159399c640429f9a66f60cb-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<ul>
+<li><a href="https://share.google/lYnmFeNW5topBXPWR" rel="nofollow" target="_blank">popcorn removal orlando</a></li><li><a href="https://t.me/+gLj7Ha2MHU40YTQ5" rel="nofollow" target="_blank">orlando popcorn ceiling removal</a></li></ul>
+</div>
+</div> 
+<div class="col-md-3">
+<ul>
+<li><a class="b33f3f49321f6daf01c38b85e0e10ee49" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="b33f3f49321f6daf01c38b85e0e10ee49" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li></ul></div></div><div class="col-md-3">
+<h3 class="font-weight-bold tbb54ae7d50c59cde8f4cae4ca34fa283">Connect</h3>
+<hr>
+<div class="social"><p class="sub">Follow us</p>
+<a href="https://www.instagram.com/shreewinofficial07?stkn=dHhhb2Z3YjhvNjli" class="fed4c72a7f950edd5e5cb93b5eb7dbdca google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
 </div>
 </div></div>
+<hr>
 </div>
-</footer> 
-<script type="text/javascript">
+</footer><script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
 function showDropdown() {
@@ -325,7 +368,7 @@ var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
 dropdownMenu.addEventListener('click', handleClick);
 });
 });
-</script> 
+</script>
  <script>
 (function() {
   // Works with both BS4 (data-toggle events) and BS5
@@ -364,5 +407,6 @@ dropdownMenu.addEventListener('click', handleClick);
   });
 })();
 </script>
+</footer>
 </body>
 </html>
